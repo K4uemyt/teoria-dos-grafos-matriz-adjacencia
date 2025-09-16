@@ -39,28 +39,28 @@ Execute o programa:
 java Main
 O programa solicitará a ordem do grafo (número de vértices) e a matriz de adjacência.
 
-# 📥 Exemplo de Entrada
-Digite a ordem do grafo (número de vértices): 5
-Digite a matriz de adjacência linha por linha:
-Linha 0: 0 1 1 0 0
-Linha 1: 1 0 0 1 0
-Linha 2: 1 0 0 0 1
-Linha 3: 0 1 0 0 0
-Linha 4: 0 0 1 0 0
+## 📥 Exemplo de Entrada<br>
+Digite a ordem do grafo (número de vértices): 5<br>
+Digite a matriz de adjacência linha por linha:<br>
+&#160;&#160;Linha 0: 0 1 1 0 0<br>
+&#160;&#160;Linha 1: 1 0 0 1 0<br>
+&#160;&#160;Linha 2: 1 0 0 0 1<br>
+&#160;&#160;Linha 3: 0 1 0 0 0<br>
+&#160;&#160;Linha 4: 0 0 1 0 0
 
-# 📤 Exemplo de Saída
-Tipo do grafo: Não dirigido, Simples, Não regular, Não completo, Não nulo
-Arestas do grafo: Quantidade de arestas: 4
-Conjunto de arestas: (0,1), (0,2), (1,3), (2,4)
-Graus do vértice:
-  Grau do vértice 0: 2
-  Grau do vértice 1: 2
-  Grau do vértice 2: 2
-  Grau do vértice 3: 1
-  Grau do vértice 4: 1
-Sequência de graus: 2, 2, 2, 1, 1
+## 📤 Exemplo de Saída
+Tipo do grafo: Não dirigido, Simples, Não regular, Não completo, Não nulo<br>
+Arestas do grafo: Quantidade de arestas: 4<br>
+Conjunto de arestas: (0,1), (0,2), (1,3), (2,4)<br>
+Graus do vértice:<br>
+&#160;&#160;Grau do vértice 0: 2<br>
+&#160;&#160;Grau do vértice 1: 2<br>
+&#160;&#160;Grau do vértice 2: 2<br>
+&#160;&#160;Grau do vértice 3: 1<br>
+&#160;&#160;Grau do vértice 4: 1<br>
+Sequência de graus: 2, 2, 2, 1, 1<br>
 Busca em profundidade: Ordem dos vértices visitados na DFS: 0 1 3 2 4
 
 # 👥 Autores
-Kauê Michel Reblin Kloth
+Kauê Michel Reblin Kloth<br>
 Rafael Bressanini
